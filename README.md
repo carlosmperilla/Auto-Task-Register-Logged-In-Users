@@ -1,5 +1,5 @@
 # Auto-Task-Register-Logged-In-Users
-Task in python that records the users registered in the day for future consultations.
+Task in python that records the users registered in the day for future consultations (For Django Projects).
 
 ## Use
 Change "your-project-path" to the path of your django project, the folder that contains manage.py.
